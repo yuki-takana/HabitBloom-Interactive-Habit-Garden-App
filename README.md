@@ -6,7 +6,7 @@ HabitBloom is a cross-platform mobile app that gamifies personal growth. Every h
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features 
 
 ### 🌿 Habit Management
 - Add, and delete habits with ease
